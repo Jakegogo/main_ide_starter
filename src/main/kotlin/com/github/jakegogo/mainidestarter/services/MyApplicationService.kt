@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jakegogo.mainidestarter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jakegogo.mainidestarter.MyBundle
 
 class MyApplicationService {
 
